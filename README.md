@@ -25,6 +25,7 @@ detects and recogonizes objects on the screen and names them accordingly
 ## how to configure
 1. clone the repo to your local machine.
 2. run these commands in the terminal
+   
    pip install jax jaxlib
    pip install Pillow
    pip install tensorflow
