@@ -3,18 +3,21 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# OBJECT DETECTION
+detects and recogonizes objects on the screen and names them accordingly
+![Screenshot from 2024-02-18 06-14-58](https://github.com/irisxvii/shn-kerascv/assets/140954119/96f0877b-4734-42d7-b8e8-95591fd16c04)
+
 ## Team members
 1. [AKHIL B XAVIER](https://github.com/winter-x64)
 2. [AKSA ROSE](https://github.com/AksaRose)
-## Link to product walkthrough
-[link to video](Link Here)
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+3. [IRIS KURIEN](https://github.com/irisxvii)
+   
 ## Libraries used
-Library Name - Version
+OpenCv
+tensorflow
+kerasCv
+numpy
+
 ## How to configure
 Instructions for setting up project
 ## How to Run
