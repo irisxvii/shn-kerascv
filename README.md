@@ -13,10 +13,10 @@ detects and recogonizes objects on the screen and names them accordingly
 3. [IRIS KURIEN](https://github.com/irisxvii)
    
 ## Libraries used
-OpenCv
-tensorflow
-kerasCv
-numpy
+1. OpenCv
+2. tensorflow
+3. kerasCv
+4. numpy
 
 ## How to configure
 Instructions for setting up project
