@@ -5,6 +5,7 @@
 
 # OBJECT DETECTION
 detects and recogonizes objects on the screen and names them accordingly
+
 ![Screenshot from 2024-02-18 06-14-58](https://github.com/irisxvii/shn-kerascv/assets/140954119/96f0877b-4734-42d7-b8e8-95591fd16c04)
 
 ## Team members
