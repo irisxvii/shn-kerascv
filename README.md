@@ -6,8 +6,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [AKHIL B XAVIER]()
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [AKHIL B XAVIER](https://github.com/winter-x64)
+2. [AKSA ROSE](https://github.com/AksaRose)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
