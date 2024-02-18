@@ -4,6 +4,7 @@
 
 
 # OBJECT DETECTION
+## how it works
 detects and recogonizes objects on the screen and names them accordingly
 
 
@@ -20,8 +21,3 @@ detects and recogonizes objects on the screen and names them accordingly
 2. tensorflow
 3. kerasCv
 4. numpy
-
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
