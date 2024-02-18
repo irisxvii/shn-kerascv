@@ -1,4 +1,21 @@
-# TEAM MEMBERS
-1. AKHIL B XAVIER
-2. AKSA ROSE
-3. IRIS KURIEN
+
+![kerascv](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/8a64f118-b69d-4bd7-b59b-a28becafe0dd)
+
+
+
+# Project Name
+Long Description about project. This project do that. This project is awesome...
+## Team members
+1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+## Link to product walkthrough
+[link to video](Link Here)
+## How it Works ?
+1. Explaining the working of project
+2. Embed video of project demo
+## Libraries used
+Library Name - Version
+## How to configure
+Instructions for setting up project
+## How to Run
+Instructions for running
