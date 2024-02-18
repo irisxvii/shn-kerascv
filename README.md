@@ -17,7 +17,19 @@ detects and recogonizes objects on the screen and names them accordingly
 3. [IRIS KURIEN](https://github.com/irisxvii)
    
 ## Libraries used
-1. OpenCv
+1. openCv
 2. tensorflow
 3. kerasCv
 4. numpy
+
+## how to configure
+1. clone the repo to your local machine.
+2. run these commands in the terminal
+   pip install jax jaxlib
+   pip install Pillow
+   pip install tensorflow
+   pip install keras
+   pip install numpy
+
+## how to run
+run the python file
