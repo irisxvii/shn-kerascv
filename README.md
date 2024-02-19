@@ -26,8 +26,8 @@ detects and recogonizes objects on the screen and names them accordingly
 1. clone the repo to your local machine.
 2. run these commands in the terminal
    
-   pip install jax jaxlib
-   pip install Pillow 
+   pip install jax jaxlib <br>
+   pip install Pillow <br>
    pip install tensorflow <br>
    pip install keras <br>
    pip install numpy <br>
