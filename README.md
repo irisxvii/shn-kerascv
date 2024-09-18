@@ -13,8 +13,8 @@ detects and recogonizes objects on the screen and names them accordingly
 
 ## Team members
 1. [AKHIL B XAVIER](https://github.com/winter-x64)
-2. [AKSA ROSE](https://github.com/AksaRose)
-3. [IRIS KURIEN](https://github.com/irisxvii)
+2. [IRIS KURIEN](https://github.com/irisxvii)
+3. [AKSA ROSE](https://github.com/AksaRose)
    
 ## Libraries used
 1. openCv
